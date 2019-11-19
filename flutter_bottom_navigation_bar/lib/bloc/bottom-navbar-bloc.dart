@@ -29,3 +29,7 @@ class BottomNavBarBloc {
     _navBarController?.close();
   }
 }
+
+
+/// https://github.com/mbsambangi/flutter_navbar_bloc_streams_demo/blob/master/lib/main.dart
+/// https://medium.com/@madhu.sambangi/flutter-bottom-navigation-bar-navigation-using-dart-streams-bloc-pattern-61ac0e916804
